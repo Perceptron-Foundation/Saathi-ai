@@ -40,9 +40,9 @@ st.markdown("""
     margin-bottom: 8px;
     text-align: left;
 }
-button[kind="primary"] {
-    height: 42px;
-    margin-top: 4px;
+button {
+    width: 100%;
+    border-radius: 10px;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -51,17 +51,7 @@ button[kind="primary"] {
 st.title("🤖 Saathi")
 st.caption("Your Type 1 Diabetes Companion")
 
-# Sidebar
-st.sidebar.title("⚙️ Settings")
-
-language = st.sidebar.selectbox("Choose Language", ["English", "Hindi"])
-mode = st.sidebar.radio("Choose Mode", ["General Chat", "Personalized Chat"])
-
-if st.sidebar.button("🧹 Clear Chat"):
-    st.session_state.chat_history = []
-    st.session_state.glucose_history = []
-
-# Session state init
+# ---------------- SESSION STATE ----------------
 if "chat" not in st.session_state:
     st.session_state.chat = model.start_chat(history=[])
 
@@ -74,63 +64,37 @@ if "glucose_history" not in st.session_state:
 if "last_glucose" not in st.session_state:
     st.session_state.last_glucose = None
 
-# Personalized input
-glucose = None
-if mode == "Personalized Chat":
-    st.subheader("📊 Enter Your Health Data")
+if "page" not in st.session_state:
+    st.session_state.page = "general"
 
-    glucose = st.number_input(
-        "Blood Glucose Level (mg/dL)",
-        min_value=50,
-        max_value=400,
-        value=120
-    )
+# ---------------- NAVBAR ----------------
+st.markdown("###")
 
-    # Instant feedback
-    if glucose < 70:
-        st.warning("⚠️ Low sugar! Suggested: drink juice or glucose tablet")
-    elif 70 <= glucose <= 180:
-        st.success("✅ Normal range")
-    elif 180 < glucose <= 250:
-        st.info("⚠️ Slightly high, consider light activity")
-    else:
-        st.error("🚨 Very high! Monitor closely")
+nav1, nav2, nav3 = st.columns([2,2,2])
 
-    # ✅ Store with timestamp (fixed)
-    if st.session_state.last_glucose != glucose:
-        st.session_state.glucose_history.append({
-            "time": datetime.now().strftime("%H:%M"),
-            "glucose": glucose
-        })
-        st.session_state.last_glucose = glucose
+with nav1:
+    if st.button("💬 General Chat"):
+        st.session_state.page = "general"
 
-    # Insight
-    insight_prompt = f"""
-    You are Saathi, a diabetes assistant.
+with nav2:
+    if st.button("📊 Personalized Chat"):
+        st.session_state.page = "personalized"
 
-    Glucose level: {glucose} mg/dL
+with nav3:
+    language = st.selectbox("🌍 Language", ["English", "Hindi"])
 
-    Give 1 short, practical health tip.
-    """
-
-    with st.spinner("Generating insight..."):
-        insight = get_gemini_response(insight_prompt, st.session_state.chat)
-
-    st.info(f"💡 Saathi Insight: {insight}")
-
-# Prompt functions
+# ---------------- PROMPTS ----------------
 def general_prompt(user_input, language):
     return f"Answer in {language}. Question: {user_input}"
 
 def personalized_prompt(user_input, glucose, language):
     return f"Glucose: {glucose} mg/dL. Answer in {language}. Question: {user_input}"
 
-# Quick questions
+# ---------------- QUICK QUESTIONS ----------------
 st.subheader("💡 Try these questions")
 
 def handle_quick_question(question):
-
-    if mode == "General Chat":
+    if st.session_state.page == "general":
         prompt = general_prompt(question, language)
     else:
         prompt = personalized_prompt(question, glucose, language)
@@ -138,10 +102,8 @@ def handle_quick_question(question):
     with st.spinner("Saathi is thinking..."):
         response = get_gemini_response(prompt, st.session_state.chat)
 
-    # Add both question + answer
     st.session_state.chat_history.append(("You", question))
     st.session_state.chat_history.append(("Bot", response))
-
 
 col1, col2, col3 = st.columns(3)
 
@@ -157,12 +119,54 @@ with col3:
     if st.button("Can I eat rice?"):
         handle_quick_question("Can I eat rice with diabetes?")
 
-# Chat input (form)
+# ---------------- PERSONALIZED SECTION ----------------
+glucose = None
+
+if st.session_state.page == "personalized":
+    st.subheader("📊 Enter Your Health Data")
+
+    glucose = st.number_input(
+        "Blood Glucose Level (mg/dL)",
+        min_value=50,
+        max_value=400,
+        value=120
+    )
+
+    # Instant feedback
+    if glucose < 70:
+        st.warning("⚠️ Low sugar! Take quick glucose")
+    elif 70 <= glucose <= 180:
+        st.success("✅ Normal range")
+    elif 180 < glucose <= 250:
+        st.info("⚠️ Slightly high")
+    else:
+        st.error("🚨 Very high!")
+
+    # Store glucose
+    if st.session_state.last_glucose != glucose:
+        st.session_state.glucose_history.append({
+            "time": datetime.now().strftime("%H:%M"),
+            "glucose": glucose
+        })
+        st.session_state.last_glucose = glucose
+
+    # AI Insight
+    insight_prompt = f"""
+    Glucose level: {glucose}
+    Give 1 short health tip.
+    """
+
+    with st.spinner("Generating insight..."):
+        insight = get_gemini_response(insight_prompt, st.session_state.chat)
+
+    st.info(f"💡 Insight: {insight}")
+
+# ---------------- CHAT INPUT ----------------
 st.markdown("### 💬 Ask something")
 
-with st.form(key="chat_form", clear_on_submit=True):
+with st.form("chat_form", clear_on_submit=True):
 
-    col1, col2 = st.columns([5, 1])
+    col1, col2 = st.columns([5,1])
 
     with col1:
         user_input = st.text_input("", placeholder="Ask something...")
@@ -172,7 +176,7 @@ with st.form(key="chat_form", clear_on_submit=True):
 
     if submit and user_input:
 
-        if mode == "General Chat":
+        if st.session_state.page == "general":
             prompt = general_prompt(user_input, language)
         else:
             prompt = personalized_prompt(user_input, glucose, language)
@@ -183,7 +187,7 @@ with st.form(key="chat_form", clear_on_submit=True):
         st.session_state.chat_history.append(("You", user_input))
         st.session_state.chat_history.append(("Bot", response))
 
-# Chat UI
+# ---------------- CHAT DISPLAY ----------------
 st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
 for role, text in st.session_state.chat_history:
@@ -194,8 +198,8 @@ for role, text in st.session_state.chat_history:
 
 st.markdown('</div>', unsafe_allow_html=True)
 
-# Graph + Insights
-if st.session_state.glucose_history:
+# ---------------- GRAPH + DASHBOARD ----------------
+if st.session_state.page == "personalized" and st.session_state.glucose_history:
 
     st.subheader("📈 Glucose Trend")
 
@@ -210,16 +214,21 @@ if st.session_state.glucose_history:
         prev = st.session_state.glucose_history[-2]["glucose"]
 
         if last > prev:
-            st.warning("📈 Sugar increased from last reading")
+            st.warning("📈 Sugar increased")
         elif last < prev:
             st.success("📉 Sugar improving")
         else:
-            st.info("⚖️ Sugar stable")
+            st.info("⚖️ Stable")
 
     # Dashboard
     st.subheader("📊 Health Dashboard")
 
     values = [item["glucose"] for item in st.session_state.glucose_history]
 
-    st.metric("Latest", f"{values[-1]} mg/dL")
-    st.metric("Average", f"{round(sum(values)/len(values),1)} mg/dL")
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.metric("Latest", f"{values[-1]} mg/dL")
+
+    with col2:
+        st.metric("Average", f"{round(sum(values)/len(values),1)} mg/dL")
