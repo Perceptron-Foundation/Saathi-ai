@@ -56,7 +56,7 @@ body {
 """, unsafe_allow_html=True)
 
 # Gemini setup
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 model = genai.GenerativeModel("models/gemini-flash-latest")
 
 def get_response(prompt, chat):
