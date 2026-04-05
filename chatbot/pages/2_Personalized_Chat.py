@@ -61,8 +61,9 @@ body {
 </style>
 """, unsafe_allow_html=True)
 
+api_key = st.secrets["GOOGLE_API_KEY"] if "GOOGLE_API_KEY" in st.secrets else os.getenv("GOOGLE_API_KEY")
 # 🔑 Gemini setup
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=api_key)
 model = genai.GenerativeModel("models/gemini-flash-latest")
 
 def get_response(prompt, chat):

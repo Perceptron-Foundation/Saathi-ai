@@ -7,8 +7,9 @@ import streamlit as st
 import os
 import google.generativeai as genai
 
+api_key = st.secrets["GOOGLE_API_KEY"] if "GOOGLE_API_KEY" in st.secrets else os.getenv("GOOGLE_API_KEY")
 # Configure API
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=api_key)
 
 # Load model
 model = genai.GenerativeModel("models/gemini-flash-latest")
