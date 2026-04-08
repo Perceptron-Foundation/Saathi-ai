@@ -1,0 +1,4729 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_0__ab2351ed",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 0,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 228
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_1__fbbfe596",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 1,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 2045
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_2__5076abc7",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 1,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1193
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_3__7f175a05",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 2,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1434
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_4__c2cd1633",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 3,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1879
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_5__5f2e8466",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 4,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1928
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_6__cef80021",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 5,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1787
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_7__37128563",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 6,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 1644
+    },
+    {
+      "chunk_id": "carbs-data-indian-food.pdf__chunk_8__bc5efe23",
+      "source": "carbs-data-indian-food.pdf",
+      "page": 7,
+      "date": "2026-04-07T19:38:36.447625+00:00",
+      "char_count": 268
+    },
+    {
+      "chunk_id": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf__chunk_0__20d4cf2b",
+      "source": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf",
+      "page": 0,
+      "date": "2026-04-07T19:54:00.180187+00:00",
+      "char_count": 2048
+    },
+    {
+      "chunk_id": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf__chunk_1__9490b605",
+      "source": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf",
+      "page": 0,
+      "date": "2026-04-07T19:54:00.180187+00:00",
+      "char_count": 659
+    },
+    {
+      "chunk_id": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf__chunk_2__28349c5e",
+      "source": "IDF_Atlas_11_2025_SEA_Factsheet_IndiaData.pdf",
+      "page": 1,
+      "date": "2026-04-07T19:54:00.180187+00:00",
+      "char_count": 1005
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_0__304b3d1d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 0,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 139
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_1__fcb281de",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 1,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 168
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_2__18dc1cbd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 2,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1318
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_3__76205982",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 3,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1028
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_4__740e0139",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 4,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 537
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_5__9a5d60a3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 5,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 806
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_6__bdcd26ae",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 6,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 538
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_7__dddc975a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 7,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 646
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_8__6e50d929",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 8,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 433
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_9__a7fe471e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 9,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 110
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_10__064062f1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 10,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 77
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_11__0292948a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 11,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2031
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_12__48923efd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 12,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2042
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_13__e0552e23",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 12,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 657
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_14__433271ba",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 13,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 503
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_15__63e00379",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 14,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1469
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_16__09a0b62e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 15,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1931
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_17__ac240511",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 16,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 716
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_18__116faccf",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 17,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1168
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_19__3e991e4e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 18,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1226
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_20__f8f5e876",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 19,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 916
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_21__70d6e340",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 20,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 935
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_22__e9b1ef11",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 21,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2029
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_23__35dafa1a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 21,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 725
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_24__0bee4a43",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 22,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 385
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_25__9da7f3c5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 23,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 917
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_26__9f0b8656",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 24,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1989
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_27__7854cd6a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 24,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 696
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_28__de6c282c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 25,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1993
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_29__88a0e876",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 25,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 723
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_30__be7c6616",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 26,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1224
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_31__f6a98c50",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 27,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 862
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_32__3a371346",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 28,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 717
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_33__2ce7d64b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 29,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2010
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_34__c58131d2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 29,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 592
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_35__98c94958",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 30,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1919
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_36__ea7c9183",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 31,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 375
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_37__ddfab44d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 32,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 753
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_38__2a273ba4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 33,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 349
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_39__d53bc313",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 34,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1603
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_40__4781e049",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 35,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1333
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_41__fb677cb9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 36,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1754
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_42__e4606535",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 37,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2041
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_43__4b8627ff",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 37,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 372
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_44__f2b7087f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 38,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2048
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_45__dbfd7eea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 38,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 426
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_46__1f38d583",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 39,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2023
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_47__8bf4b219",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 40,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1983
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_48__5629270f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 41,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1722
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_49__0f447c99",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 42,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2001
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_50__a0a40f30",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 43,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1980
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_51__e250b4c2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 43,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 429
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_52__52250873",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 44,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1997
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_53__1c2ff3b9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 44,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 372
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_54__f9f72e1e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 45,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1997
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_55__33a7a199",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 45,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 319
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_56__61bf22ec",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 46,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2010
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_57__67f796c5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 46,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 421
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_58__e2118ee9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 47,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2044
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_59__83ee5126",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 48,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1049
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_60__27a46921",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 49,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 565
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_61__37758bd9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 50,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1352
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_62__72f4b137",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 51,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2023
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_63__79016ce3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 51,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 388
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_64__c3680708",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 52,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2010
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_65__0e49563d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 52,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 377
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_66__d5928836",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 53,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2011
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_67__69bc1d8d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 53,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 485
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_68__ce300257",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 54,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2010
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_69__2fd04bd6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 54,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 388
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_70__928917e6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 55,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2046
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_71__8fd10b3e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 55,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 272
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_72__89c04ee4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 56,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2047
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_73__848f0ed8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 56,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 308
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_74__0249f557",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 57,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2024
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_75__a762ecc2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 57,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 277
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_76__b6cb1e1f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 58,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1998
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_77__50110842",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 58,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 690
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_78__e2425d03",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 59,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1109
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_79__d190c71f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 60,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2007
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_80__6440d21d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 60,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 451
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_81__a36bc7c7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 61,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1168
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_82__76368dd5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 62,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2035
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_83__b2a88702",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 62,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 521
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_84__8772c75e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 63,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 495
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_85__0ea8be3a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 64,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 457
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_86__08570a76",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 65,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2015
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_87__0ff2477c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 66,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1979
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_88__2b12a312",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 66,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 872
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_89__215634f1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 67,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2020
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_90__3ec691ba",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 67,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 775
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_91__06ed9a04",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 68,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1860
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_92__23b571a9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 69,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2043
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_93__a392d9ac",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 69,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 289
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_94__8e7024bb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 70,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1825
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_95__eff42009",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 71,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2032
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_96__51ec4363",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 71,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 471
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_97__f1866481",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 72,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2004
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_98__864144d0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 72,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 319
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_99__688494e0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 73,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1777
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_100__43d7ff7e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 74,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2039
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_101__2b57bacc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 74,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 299
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_102__0a99cba7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 75,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1973
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_103__0f84a7b1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 76,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1782
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_104__4ceb7986",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 77,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1259
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_105__ca6889fa",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 78,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1981
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_106__5f209256",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 78,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 470
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_107__525ae88c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 79,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1981
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_108__f811dd53",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 79,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 572
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_109__d8d44627",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 80,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1426
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_110__403b7752",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 81,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 601
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_111__545e6f95",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 82,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 613
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_112__7f057ee6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 83,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1592
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_113__3f9a40f8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 84,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1665
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_114__6519c9ad",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 85,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1218
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_115__23c40cd6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 86,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1772
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_116__7958643d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 87,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1962
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_117__33976030",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 88,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1577
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_118__0096b4d7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 89,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 971
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_119__4ec1a7b7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 90,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1250
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_120__025461ae",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 91,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2000
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_121__3ab6f4e7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 91,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 307
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_122__83dc605b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 92,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2034
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_123__7f9fe1c6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 92,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 774
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_124__4e14ee56",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 93,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2047
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_125__37b094d9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 93,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 627
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_126__5aa4983d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 94,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1132
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_127__bb43e0a7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 95,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 148
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_128__89a74628",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 96,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1043
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_129__da8331d6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 97,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1245
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_130__f6b939b9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 98,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1586
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_131__fac52d3c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 99,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1277
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_132__554c23d3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 100,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 868
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_133__7022811f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 101,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 162
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_134__890438fd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 102,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 796
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_135__0b8710f9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 103,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1776
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_136__76afe770",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 104,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 266
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_137__d6652c20",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 105,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 61
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_138__585051dc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 106,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2002
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_139__0fb63ba2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 107,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2009
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_140__f1f0e8d3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 107,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 371
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_141__e818d132",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 108,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1347
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_142__4e381b76",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 109,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2013
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_143__71a6b7cc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 109,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 478
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_144__ebb6fcac",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 110,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2011
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_145__70418330",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 110,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 719
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_146__1a8e6e51",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 111,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2007
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_147__7c263676",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 111,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 672
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_148__1b6ab504",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 112,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2016
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_149__a946cdfb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 112,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 368
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_150__eeedc94c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 113,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2036
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_151__3fe9e5c9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 113,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 692
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_152__22cfe22b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 114,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2035
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_153__e89b0423",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 114,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 514
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_154__04e507e1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 115,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1578
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_155__7fafaa30",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 116,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2007
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_156__f624819f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 116,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 746
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_157__bd94a7fd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 117,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1975
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_158__0bda889b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 118,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1833
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_159__9d2ae1ec",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 119,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2004
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_160__731eb6e9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 119,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 485
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_161__b227f51b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 120,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1884
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_162__28b872a1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 121,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1001
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_163__84165c07",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 122,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1035
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_164__61b6351c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 123,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 79
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_165__3b65029b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 124,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1435
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_166__403482d8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 125,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1456
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_167__1afac6e3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 126,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1948
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_168__beb57f45",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 127,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1540
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_169__f49b9dd7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 128,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1738
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_170__e172181c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 129,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 968
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_171__4628c2bc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 130,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1989
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_172__fd1286c4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 130,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 545
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_173__0137e63a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 131,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1463
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_174__753f55ca",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 132,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1629
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_175__f9c65af3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 133,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1742
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_176__22d02977",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 134,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1844
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_177__a8700d24",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 135,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1972
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_178__472fc25f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 135,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 478
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_179__07918587",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 136,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1989
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_180__a8f50652",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 136,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 663
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_181__35c50711",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 137,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 794
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_182__8ba0d7e9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 138,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 918
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_183__7e01fed9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 139,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1728
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_184__b8973d8c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 140,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1484
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_185__80a2ec08",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 141,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1337
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_186__561f2568",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 142,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1998
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_187__824918dc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 142,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 481
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_188__a36c5817",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 143,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 976
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_189__11eb035a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 144,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 446
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_190__10ea6b76",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 145,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1715
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_191__1be00764",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 146,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1609
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_192__c1069751",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 147,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1407
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_193__9a26fe6c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 148,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1985
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_194__fcbed094",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 149,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1969
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_195__c3259413",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 150,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2036
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_196__e6380aa9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 150,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 929
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_197__6e12362d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 151,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1108
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_198__fd2883f7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 152,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1532
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_199__e4299d9d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 153,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 556
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_200__d96965d9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 154,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1719
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_201__73ef78d2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 155,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1553
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_202__42c5d485",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 156,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1847
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_203__3f3d7c56",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 157,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1357
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_204__bce6a754",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 158,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1711
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_205__86a21147",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 159,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1411
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_206__1bd6835d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 160,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1635
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_207__e5329346",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 161,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1779
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_208__ed1404b0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 162,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2028
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_209__b63f5a51",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 162,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 282
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_210__f230afb5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 163,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2002
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_211__c3b28233",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 163,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 414
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_212__fe673d4c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 164,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1980
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_213__edd241ec",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 164,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 354
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_214__35d15aad",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 165,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1890
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_215__be1aaf7b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 166,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 751
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_216__064f5e2c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 167,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1533
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_217__e828e369",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 168,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1671
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_218__ff6ee5e4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 169,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2038
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_219__91c51a96",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 170,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1286
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_220__9b30c503",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 171,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1295
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_221__72c80f79",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 172,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1507
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_222__671ae722",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 173,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1775
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_223__bc004e15",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 174,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1568
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_224__adcdefae",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 175,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1025
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_225__3378b3af",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 176,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 923
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_226__6683125b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 177,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1168
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_227__96158603",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 178,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1517
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_228__8571bab2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 179,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1575
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_229__89e872ea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 180,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1783
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_230__07ecba86",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 181,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1621
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_231__734dc5a7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 182,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1734
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_232__05ad5f6d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 183,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1452
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_233__53852f0c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 184,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1659
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_234__5ba38adb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 185,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 843
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_235__6a2ac8d9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 186,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1510
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_236__9c20d356",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 187,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1147
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_237__c38fd868",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 188,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1377
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_238__3f53aa6c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 189,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1126
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_239__a00eea62",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 190,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 577
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_240__88eba800",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 191,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1120
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_241__32d5582a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 192,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1195
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_242__341aa6f3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 193,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1055
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_243__29187da0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 194,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1470
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_244__dd5b0686",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 195,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1951
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_245__eb46799b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 196,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1484
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_246__09d15e98",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 197,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 925
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_247__78133a76",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 198,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1369
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_248__994ae694",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 199,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1394
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_249__4b737d21",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 200,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1943
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_250__fa13d73e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 201,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2020
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_251__5d1b1dfc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 201,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 317
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_252__5ebc451f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 202,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1092
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_253__46ff36d3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 203,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 906
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_254__883b36fa",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 204,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1655
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_255__9609b0b7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 205,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1810
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_256__6cec5800",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 206,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1163
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_257__c11d1067",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 207,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1573
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_258__f8eaa0c3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 208,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1524
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_259__f3b2d803",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 209,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 788
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_260__50cda1ea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 210,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 60
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_261__be1a626e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 211,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 857
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_262__48c57a16",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 212,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1475
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_263__61d67aed",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 213,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1135
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_264__a80494bd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 214,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1909
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_265__c0b0312b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 215,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2038
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_266__4cc6a9e1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 215,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 403
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_267__8a16506b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 216,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1143
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_268__6179f870",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 217,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1223
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_269__5bd8d20c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 218,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2025
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_270__3374c5e6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 218,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 355
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_271__d467f688",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 219,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1837
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_272__a60f039e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 220,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 192
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_273__13534c19",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 221,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1544
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_274__932147b7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 222,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1004
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_275__be2b7455",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 223,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1734
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_276__634d0f45",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 224,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1083
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_277__0e7bfe26",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 225,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1806
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_278__4755e2b5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 226,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1997
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_279__28687dbc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 226,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 341
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_280__6cf772ba",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 227,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1319
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_281__26f79d98",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 228,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1389
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_282__2b1555e9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 229,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1349
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_283__f6ea7fc5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 230,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 791
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_284__0e9d1d63",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 231,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1043
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_285__1dfcfeff",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 232,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1444
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_286__b315fb50",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 233,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2004
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_287__1b74569c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 233,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 423
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_288__df2fac3a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 234,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1497
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_289__4c3f3614",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 235,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 983
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_290__2c278812",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 236,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1790
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_291__85e026ac",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 237,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1404
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_292__cdb3180d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 238,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 671
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_293__dea29f50",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 239,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2018
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_294__965304dd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 239,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 504
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_295__3771cd65",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 240,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1875
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_296__60a01aea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 241,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1313
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_297__44c61526",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 242,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1674
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_298__becd1934",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 243,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1350
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_299__3d5a9552",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 244,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1125
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_300__42494e1c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 245,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 729
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_301__9258ac69",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 246,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1525
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_302__e9479a1e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 247,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2044
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_303__2b2bf771",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 247,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 253
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_304__a0a53b5e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 248,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1172
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_305__b13167b1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 249,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 478
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_306__d13970af",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 250,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1640
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_307__f1f72a78",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 251,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1481
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_308__7e0a5d66",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 252,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2002
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_309__a7f03ac4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 252,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 391
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_310__a10be91f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 253,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1867
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_311__236dae9d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 254,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1915
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_312__ec535b03",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 255,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1710
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_313__4102836d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 256,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1484
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_314__9a63062d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 257,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2007
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_315__0d458a4c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 258,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1694
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_316__d0f3b934",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 259,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1853
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_317__d2d392b8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 260,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1938
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_318__02f1d964",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 261,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1689
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_319__f3bdcca8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 262,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2023
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_320__fcd34d2d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 263,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2008
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_321__a134a82f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 263,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 289
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_322__bb8bba84",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 264,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2046
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_323__ce6ef6cb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 264,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 402
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_324__213686d6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 265,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1638
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_325__2dbe846c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 266,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1705
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_326__3b8c8681",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 267,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1608
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_327__b33485bf",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 268,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1758
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_328__d8157f88",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 269,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1801
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_329__56d89434",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 270,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1963
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_330__efa5cb67",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 271,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1970
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_331__6efd9e7c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 272,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1976
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_332__067ee672",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 273,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1859
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_333__037fa16c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 274,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1819
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_334__5ae4a704",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 275,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2028
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_335__819438d2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 275,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 458
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_336__df69d0a7",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 276,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2021
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_337__535483f8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 276,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 298
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_338__c150aae4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 277,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1885
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_339__1afe61ea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 278,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1964
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_340__6a9d758e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 279,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1944
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_341__5dcec992",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 280,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1643
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_342__28abcd33",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 281,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1579
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_343__22120d40",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 282,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2038
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_344__4cfbe5bd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 282,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 441
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_345__8bc0175b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 283,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2034
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_346__09c4feb8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 284,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1963
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_347__3df5ebcc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 285,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1252
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_348__eddc7452",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 286,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1985
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_349__28c725fc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 287,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1927
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_350__0f5ff25e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 288,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1697
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_351__95e1f9f5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 289,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 747
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_352__8a70c3af",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 290,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1060
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_353__91e4e641",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 291,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 941
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_354__b43dcbc6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 292,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1584
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_355__edecd038",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 293,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1987
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_356__278ebfc1",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 293,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 410
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_357__07457e75",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 294,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2008
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_358__0d5da113",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 294,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 321
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_359__1e7d159a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 295,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1889
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_360__4400156a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 296,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1570
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_361__f60ee1c3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 297,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1008
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_362__d32cfcf0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 298,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1293
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_363__dc7d634d",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 299,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1834
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_364__cba48495",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 300,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1667
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_365__2d04a589",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 301,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1711
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_366__1615beff",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 302,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1998
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_367__69f2cdb5",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 302,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 414
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_368__1228a5d8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 303,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1912
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_369__c36518b4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 304,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1971
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_370__997de7eb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 304,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 372
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_371__9343dd17",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 305,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1987
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_372__c0ff5eca",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 305,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 300
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_373__0537142c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 306,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1483
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_374__7f4b01c3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 307,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2003
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_375__0a86ab98",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 307,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 320
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_376__fc234a37",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 308,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1863
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_377__6a77eca6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 309,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1887
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_378__d88c8e62",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 310,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2016
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_379__6b3a3a1e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 310,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 339
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_380__b61bd967",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 311,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1335
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_381__58990783",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 312,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2001
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_382__4aa75b76",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 312,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 404
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_383__9e2e15a6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 313,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1834
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_384__817d458c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 314,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 863
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_385__161cd09f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 315,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 642
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_386__61573c53",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 316,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2001
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_387__294334ac",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 316,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 462
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_388__7e4a2b8b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 317,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2039
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_389__748a4099",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 317,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 523
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_390__3cb0923e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 318,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2037
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_391__31362679",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 318,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 475
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_392__311bb805",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 319,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 663
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_393__0c251388",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 320,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2005
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_394__c05ba953",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 320,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 320
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_395__00670353",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 321,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1409
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_396__61bff263",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 322,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1829
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_397__d64f4aa2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 323,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 2017
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_398__eca0e6dd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 323,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 458
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_399__fe0dc12c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 324,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1548
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_400__a1e81528",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 325,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1623
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_401__011bb6eb",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 326,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1607
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_402__640018a6",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 327,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1708
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_403__ca3c7b18",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 328,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 944
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_404__449d8ec0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 329,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1658
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_405__2e838ccf",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 330,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1544
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_406__93d40b4c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 331,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1264
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_407__6b9960d0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 332,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1425
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_408__875d806a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 333,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1507
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_409__f16a5d24",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 334,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1403
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_410__55db1895",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 335,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 461
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_411__23cb7118",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 336,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1230
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_412__03b8db36",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 337,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1789
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_413__11903020",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 338,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1172
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_414__214ca388",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 339,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1249
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_415__300b2e12",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 340,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1235
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_416__47d8bfa3",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 341,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1152
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_417__7dfe7980",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 342,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1046
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_418__8dee6a6c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 343,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1124
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_419__6147d56c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 344,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1027
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_420__54aab5e8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 345,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1537
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_421__80ed1bbc",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 346,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1499
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_422__4e8c1c83",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 347,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1371
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_423__e7ebfef2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 348,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 682
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_424__41c24e4f",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 349,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 726
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_425__7525e73b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 350,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 844
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_426__f98c8830",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 351,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 779
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_427__00ff6322",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 352,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 818
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_428__d34057bf",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 353,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 370
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_429__b5cb9726",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 354,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 439
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_430__7ed7c26c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 355,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 408
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_431__3329118b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 356,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 440
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_432__f6cfd907",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 357,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 427
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_433__67a44909",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 358,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 449
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_434__c4975c65",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 359,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 400
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_435__b809ba42",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 360,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 431
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_436__2f4bc6cd",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 361,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 495
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_437__ea3a01db",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 362,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 459
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_438__f73ca5f8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 363,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1231
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_439__e0e6841a",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 364,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 997
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_440__ac6db228",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 365,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 331
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_441__e80f60b9",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 366,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 367
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_442__bb216c14",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 367,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 372
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_443__9b9c76aa",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 368,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 335
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_444__7ebb5312",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 369,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 327
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_445__9ec864ce",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 370,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 288
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_446__b896bcb0",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 371,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 353
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_447__19c82924",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 372,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 808
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_448__eaee72db",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 373,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1426
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_449__0ca44f51",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 374,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1517
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_450__30aaf25c",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 375,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1323
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_451__d57056de",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 376,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 1349
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_452__ee8beac8",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 377,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 615
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_453__5ddf445e",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 378,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 661
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_454__5e93a367",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 379,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 788
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_455__ff35eef2",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 380,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 756
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_456__6898f218",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 381,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 328
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_457__9ce0fd5b",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 382,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 382
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_458__1b1af2d4",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 383,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 130
+    },
+    {
+      "chunk_id": "think_like_a_pancreas__major_proj.pdf__chunk_459__fc0412ea",
+      "source": "think_like_a_pancreas__major_proj.pdf",
+      "page": 384,
+      "date": "2026-04-07T20:30:52.638636+00:00",
+      "char_count": 808
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_0__d7329707",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 0,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 394
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_1__cc4d84f2",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 1,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 2010
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_2__50d63e44",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 1,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 693
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_3__bf7226ed",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 2,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1962
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_4__8b9a8b6a",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 2,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 891
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_5__2f7a5f04",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 3,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1781
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_6__416aa33e",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 4,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 2023
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_7__93dfbda6",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 4,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1113
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_8__aaf4e774",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 5,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1243
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_9__d8709618",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 6,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1074
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_10__c6404a8d",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 7,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1438
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_11__ff767725",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 8,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1343
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_12__4f4b621d",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 9,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1306
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_13__1f804ea3",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 10,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1261
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_14__198f8f12",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 11,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1271
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_15__9c87073a",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 12,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1937
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_16__91505300",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 13,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1668
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_17__9da4eead",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 14,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 2044
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_18__e2bba988",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 14,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 288
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_19__21fe9c73",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 15,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1983
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_20__8247a8d6",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 15,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1257
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_21__3b054eba",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 16,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1978
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_22__d55cc0fe",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 17,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1494
+    },
+    {
+      "chunk_id": "South-Asian-Carb-Counting-tool.pdf__chunk_23__43ed5c68",
+      "source": "South-Asian-Carb-Counting-tool.pdf",
+      "page": 18,
+      "date": "2026-04-08T03:21:45.084811+00:00",
+      "char_count": 1128
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_0__bf94ff80",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 1,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 103
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_1__496296b0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 2,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 821
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_2__4306e6c1",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 3,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 656
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_3__09365f05",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 4,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1689
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_4__16b84d66",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 5,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 811
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_5__e8ae4e2e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 6,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 212
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_6__1380cf84",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 7,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 773
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_7__a0091efa",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 8,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 645
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_8__8ee5e0e7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 9,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2004
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_9__50edb1c0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 9,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1106
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_10__fcfeefe9",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 10,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1642
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_11__2e2362d3",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 11,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2002
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_12__ffd563df",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 11,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 617
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_13__e0629942",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 12,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2016
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_14__eb6268b3",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 12,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 841
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_15__6cbf15b7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 13,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2014
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_16__9777f6b7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 13,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 929
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_17__8ac5e1ca",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 14,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1237
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_18__4c4f09db",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 15,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1983
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_19__3b51cb6a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 15,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1204
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_20__b5e8a49f",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 16,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1815
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_21__4f740036",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 17,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2027
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_22__c9ce9ee4",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 17,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 626
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_23__bf88ce98",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 18,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1898
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_24__b15f2c83",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 19,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 584
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_25__25a6e50c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 20,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1297
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_26__cb093f49",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 21,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2031
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_27__8359430b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 21,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 441
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_28__393c9929",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 22,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 64
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_29__68e57cc1",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 23,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2001
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_30__85c64c46",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 23,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 979
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_31__f53e367c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 24,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2028
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_32__e25439af",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 24,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 564
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_33__8f8527cb",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 25,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2011
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_34__31e5d202",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 25,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 876
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_35__8a4cd6c0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 26,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1818
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_36__9d41ef71",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 27,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 716
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_37__d50cd274",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 28,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 637
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_38__85647d51",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 29,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 226
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_39__55d34d1a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 30,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 454
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_40__f7b30ecf",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 31,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2017
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_41__c0163027",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 32,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2021
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_42__5492f4f0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 32,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1054
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_43__7bc6cad5",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 33,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1009
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_44__2e14f325",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 34,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1229
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_45__9302af0b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 35,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1995
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_46__cb2155a1",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 35,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 357
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_47__fe6cd2e3",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 36,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1982
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_48__a028159a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 36,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 759
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_49__b82d88c5",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 37,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1972
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_50__508a820c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 37,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 882
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_51__a7b54431",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 38,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2030
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_52__8c980fbc",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 38,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 328
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_53__08abc71b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 39,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1997
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_54__8c7fd846",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 39,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 617
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_55__ff81429c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 40,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2006
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_56__91645455",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 40,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 524
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_57__69765f3b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 41,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1575
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_58__7ed3870a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 42,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1941
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_59__3232f098",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 43,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1481
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_60__62af090b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 44,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2037
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_61__07582de3",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 44,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 490
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_62__8ef609b2",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 45,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1982
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_63__ee63ce11",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 45,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1002
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_64__8c49ff6d",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 46,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1989
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_65__d9f05a15",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 46,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 808
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_66__e0cc47c9",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 47,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 804
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_67__cdad0e2f",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 48,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1662
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_68__84aee001",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 49,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1378
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_69__4018a04b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 50,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1988
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_70__068e0fe0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 50,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 353
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_71__1f70f777",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 51,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2045
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_72__fc7204cd",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 51,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 569
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_73__aef16249",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 52,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2038
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_74__3bd3d448",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 52,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 286
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_75__19422e5f",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 53,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1574
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_76__cec088e8",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 54,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 770
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_77__e79e7779",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 55,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1990
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_78__64919bab",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 55,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 475
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_79__a81c983c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 56,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2028
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_80__54cb5354",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 56,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 247
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_81__be20fe4e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 57,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2028
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_82__8282134b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 57,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 692
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_83__ed6d60cc",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 58,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1946
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_84__a0eb3eed",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 59,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1996
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_85__4a5fc6b2",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 59,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 835
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_86__6b6e0f9e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 60,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1484
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_87__44ba861c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 61,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1118
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_88__9d98210e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 62,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1990
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_89__7113cac5",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 62,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 556
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_90__fc651d86",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 63,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2003
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_91__fde7d199",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 63,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 544
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_92__17cd2b52",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 64,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1972
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_93__d2925090",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 64,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 699
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_94__4a9d89dd",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 65,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 708
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_95__363d3f0e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 66,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1402
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_96__ae9edd73",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 67,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2041
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_97__e0c8b887",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 67,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 246
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_98__d9965f85",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 68,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 901
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_99__6a4cc159",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 69,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 612
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_100__cc8bb9fe",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 70,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2013
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_101__8d40c94e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 71,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1610
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_102__d0de7504",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 72,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 442
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_103__c8150388",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 73,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1977
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_104__20fe89a8",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 73,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 524
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_105__c91963e7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 74,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2034
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_106__192e4d10",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 74,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 751
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_107__dfb62a8f",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 75,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1968
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_108__d6d6848b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 76,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 451
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_109__ec7648d8",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 77,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2014
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_110__d656c7d2",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 77,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 463
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_111__e861ccfd",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 78,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2027
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_112__2cebf888",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 78,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 491
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_113__1085fb98",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 79,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1515
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_114__7b5f66e6",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 80,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1977
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_115__569a24d3",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 80,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 422
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_116__ffd5cd18",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 81,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2029
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_117__9094c5b8",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 81,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 883
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_118__1f48fdab",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 82,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1999
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_119__ee53a4fe",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 82,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 548
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_120__f8de450c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 83,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1998
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_121__c22175b7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 83,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 293
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_122__36871387",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 84,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 397
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_123__1a7484ed",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 85,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1726
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_124__586c2bde",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 86,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2036
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_125__90aee33d",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 86,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 489
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_126__04628f34",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 87,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2004
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_127__3b0b8723",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 87,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 298
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_128__38fe9189",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 88,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 375
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_129__38ad9cd4",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 89,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2017
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_130__a9a05418",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 89,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 329
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_131__cd9a7d64",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 90,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2024
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_132__cdb01c92",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 90,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 889
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_133__d2e20d5c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 91,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1133
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_134__e76bb78b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 93,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 941
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_135__82e5ba8d",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 95,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 841
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_136__b752a4f0",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 96,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 635
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_137__8e47f3f8",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 97,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1157
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_138__ec664804",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 98,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1161
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_139__d3f3e195",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 99,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 991
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_140__b96a5260",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 100,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1194
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_141__241bb629",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 101,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 865
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_142__967e13df",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 102,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1475
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_143__6bca1d3a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 103,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1460
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_144__dfd8f745",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 104,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1496
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_145__54a696a4",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 105,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1498
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_146__b163473c",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 106,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1496
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_147__f771b105",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 107,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1176
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_148__d470cdce",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 108,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1462
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_149__fc25146b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 109,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1461
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_150__330bc306",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 110,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1498
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_151__634b54b6",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 111,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1500
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_152__96535668",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 112,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1498
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_153__db4de5c1",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 113,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1177
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_154__652a9f41",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 114,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 557
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_155__5d44ec55",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 115,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 801
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_156__ea4f4e9e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 116,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 911
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_157__27af6389",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 117,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1314
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_158__fe69e463",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 118,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 407
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_159__1087b274",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 119,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 126
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_160__c5debba6",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 120,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 439
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_161__0d49bb39",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 121,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 931
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_162__9132c6f1",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 122,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 2045
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_163__c63e6804",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 122,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 314
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_164__f36fbef9",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 123,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1482
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_165__d069bd07",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 124,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1639
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_166__6885f75e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 125,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 535
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_167__f644702e",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 126,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1320
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_168__66b734e2",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 127,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 593
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_169__565f040b",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 128,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1112
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_170__c7c956e7",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 129,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1112
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_171__a4c23d72",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 130,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 904
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_172__0894e79a",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 131,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1812
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_173__0ce5f0e2",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 132,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 473
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_174__7dc60797",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 133,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1780
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_175__0dc3df95",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 134,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1849
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_176__8c51eaff",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 135,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1918
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_177__c38de294",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 136,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 1855
+    },
+    {
+      "chunk_id": "DietaryGuidelinesforNINwebsite.pdf__chunk_178__a5b8f312",
+      "source": "DietaryGuidelinesforNINwebsite.pdf",
+      "page": 137,
+      "date": "2026-04-08T03:31:37.438254+00:00",
+      "char_count": 700
+    }
+  ]
+}
