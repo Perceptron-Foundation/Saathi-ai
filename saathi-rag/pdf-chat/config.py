@@ -22,4 +22,4 @@ GEMINI_MODEL       = "gemini-2.5-flash"
 LLM_TEMPERATURE    = 0.2
 LLM_MAX_TOKENS     = 1024
 
-METADATA_FILE      = "chunks_metadata.json"
+METADATA_FILE = "./metadata/ques_pdf_chunks_metadata.json"

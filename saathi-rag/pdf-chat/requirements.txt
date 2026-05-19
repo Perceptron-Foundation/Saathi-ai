@@ -6,6 +6,7 @@ langchain-community>=0.2.0
 
 # LangChain core
 langchain>=0.2.0
+langchain-text-splitters>=0.2.0
 
 # BiomedBERT embeddings
 sentence-transformers>=3.0.0
@@ -17,3 +18,4 @@ pinecone>=5.0.0
 langchain-google-genai>=1.0.0
 
 langchain_core
+huggingface_hub
