@@ -5,11 +5,11 @@ from typing import Optional
 
 from dotenv import load_dotenv
 import os
+
 load_dotenv()
 
 import chromadb
 import google.generativeai as genai
-from sentence_transformers import SentenceTransformer
 
 # =====================================================
 # FASTAPI INIT
@@ -30,7 +30,6 @@ app.add_middleware(
 # =====================================================
 # GEMINI CONFIG
 # =====================================================
-# Replace with your actual Gemini API key
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 genai.configure(api_key=GEMINI_API_KEY)
@@ -40,15 +39,14 @@ gemini_model = genai.GenerativeModel(
 )
 
 # =====================================================
-# LOAD EMBEDDING MODEL
+# CREATE CHROMA DB IF NOT EXISTS
 # =====================================================
-print("Loading embedding model...")
+if not os.path.exists("./chroma_db"):
 
-embed_model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
-)
+    print("Chroma DB not found...")
+    print("Creating Chroma DB...")
 
-print("Embedding model loaded successfully")
+    import create_db
 
 # =====================================================
 # LOAD CHROMA DB
@@ -91,21 +89,8 @@ def fetch_last_5_meals(user_id):
     # =================================================
     # TODO:
     # Replace this mock data with actual API call
-    #
-    # Example:
-    #
-    # import requests
-    #
-    # response = requests.get(
-    #     f"http://your-api.com/meals/{user_id}"
-    # )
-    #
-    # meals = response.json()
-    #
-    # return meals
     # =================================================
 
-    # MOCK DATA FOR NOW
     meals = [
         {
             "meal_name": "Rice",
@@ -141,12 +126,8 @@ def fetch_last_5_meals(user_id):
 # =====================================================
 def search(query, k=5):
 
-    query_embedding = embed_model.encode(
-        query
-    ).tolist()
-
     results = collection.query(
-        query_embeddings=[query_embedding],
+        query_texts=[query],
         n_results=k
     )
 
@@ -173,7 +154,6 @@ STRICT RULES:
   "I don't have enough information"
 - Do NOT give unsafe insulin advice
 - Keep answers concise and safe
-- Mention when medical supervision is needed
 
 Retrieved Medical Context:
 {context}
@@ -202,25 +182,16 @@ Answer:
 @app.post("/ask")
 def ask(req: QueryRequest):
 
-    # ================================================
-    # FETCH LAST 5 MEALS
-    # ================================================
     meals = fetch_last_5_meals(
         req.user_id
     )
 
-    # ================================================
-    # BUILD PATIENT DATA
-    # ================================================
     patient_data = {
         "glucose": req.glucose,
         "iob": req.iob,
         "last_5_meals": meals
     }
 
-    # ================================================
-    # GENERATE AI RESPONSE
-    # ================================================
     result = generate_answer(
         req.query,
         patient_data
