@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-chromadb
-google-generativeai
+google-genai
 python-dotenv
 gdown
-onnxruntime
+pinecone
