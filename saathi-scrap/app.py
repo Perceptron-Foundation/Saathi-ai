@@ -2,7 +2,7 @@ import os
 from typing import Optional
 
 from dotenv import load_dotenv
-from fastapi import FastAPI
+from fastapi import FastAPI, Response
 from fastapi.middleware.cors import CORSMiddleware
 from google import genai
 from google.genai import types
@@ -56,6 +56,43 @@ def _is_model_not_found_error(exc: Exception) -> bool:
     return "not found" in msg and "model" in msg
 
 
+def _is_quota_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    return (
+        "429" in msg
+        or "resource_exhausted" in msg
+        or "quota" in msg
+        or "rate limit" in msg
+    )
+
+
+def _friendly_error_response(exc: Exception) -> dict:
+    msg = str(exc)
+    if _is_quota_error(exc):
+        return {
+            "success": False,
+            "answer": (
+                "The AI service quota is currently exhausted. "
+                "Please retry after quota reset."
+            ),
+            "sources": [],
+            "error": "quota_exhausted",
+        }
+    if "not configured" in msg.lower():
+        return {
+            "success": False,
+            "answer": "Backend configuration is incomplete.",
+            "sources": [],
+            "error": "misconfigured_backend",
+        }
+    return {
+        "success": False,
+        "answer": "Internal processing failed. Please retry shortly.",
+        "sources": [],
+        "error": "internal_error",
+    }
+
+
 def _candidate_embedding_models() -> list[str]:
     candidates = [
         EMBEDDING_MODEL,
@@ -89,6 +126,21 @@ def home():
     return {
         "message": "Saathi AI backend running successfully"
     }
+
+
+@app.head("/")
+def home_head():
+    return Response(status_code=200)
+
+
+@app.get("/healthz")
+def healthz():
+    return {"status": "ok"}
+
+
+@app.head("/healthz")
+def healthz_head():
+    return Response(status_code=200)
 
 # =====================================================
 # FETCH LAST 5 MEALS
@@ -177,6 +229,13 @@ def generate_answer(query, patient_data):
     matches = search(query, TOP_K)
     docs = [m.get("metadata", {}).get("text", "") for m in matches]
     docs = [d for d in docs if d]
+
+    if not docs:
+        return {
+            "answer": "I don't have enough information",
+            "sources": [],
+        }
+
     context = "\n\n".join(docs)
 
     prompt = f"""
@@ -224,20 +283,23 @@ Answer:
 # =====================================================
 @app.post("/ask")
 def ask(req: QueryRequest):
+    try:
+        meals = fetch_last_5_meals(
+            req.user_id
+        )
 
-    meals = fetch_last_5_meals(
-        req.user_id
-    )
+        patient_data = {
+            "glucose": req.glucose,
+            "iob": req.iob,
+            "last_5_meals": meals
+        }
 
-    patient_data = {
-        "glucose": req.glucose,
-        "iob": req.iob,
-        "last_5_meals": meals
-    }
-
-    result = generate_answer(
-        req.query,
-        patient_data
-    )
-
-    return result
+        result = generate_answer(
+            req.query,
+            patient_data
+        )
+        result["success"] = True
+        return result
+    except Exception as exc:
+        print(f"/ask failed: {exc}")
+        return _friendly_error_response(exc)
