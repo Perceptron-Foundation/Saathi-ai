@@ -4,3 +4,4 @@ chromadb
 sentence-transformers
 google-generativeai
 python-dotenv
+gdown
