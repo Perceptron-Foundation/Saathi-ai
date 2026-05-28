@@ -1,7 +1,7 @@
 """
 query.py — interactive console RAG query loop
 ================================================
-  user query  →  BiomedBERT embed  →  Pinecone cosine top-K
+    user query  →  HF inference embed  →  Pinecone cosine top-K
               →  build prompt  →  Gemini LLM  →  answer + references
 
 Run:
@@ -12,9 +12,9 @@ Optional:  filter results to a specific PDF source:
 """
 import json
 import os
-from pathlib import Path
+import math
 
-from sentence_transformers import SentenceTransformer
+from huggingface_hub import InferenceClient
 from pinecone import Pinecone
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
@@ -23,12 +23,12 @@ from config import (
     PINECONE_API_KEY,
     PINECONE_INDEX,
     GOOGLE_API_KEY,
+    HF_TOKEN,
     GEMINI_MODEL,
     EMBEDDING_MODEL,
     TOP_K,
     LLM_TEMPERATURE,
     LLM_MAX_TOKENS,
-    METADATA_FILE,
 )
 
 from constants import SYSTEM_PROMPT
@@ -51,11 +51,17 @@ def build_prompt(query: str, context_passages: list[dict]) -> str:
 
 # ── retrieval ─────────────────────────────────────────────────────────────────
 
-def retrieve(query: str, embed_model: SentenceTransformer, index, top_k: int = TOP_K) -> list[dict]:
+def retrieve(query: str, embed_client: InferenceClient, index, top_k: int = TOP_K) -> list[dict]:
     """Embed the query and fetch top-K similar vectors from Pinecone."""
-    q_vec = embed_model.encode(
-        [query], normalize_embeddings=True
-    )[0].tolist()
+    raw_embedding = embed_client.feature_extraction(
+        text=query,
+        model=EMBEDDING_MODEL,
+    )
+
+    # Normalize to match cosine retrieval behavior used during ingestion.
+    q_vec = [float(v) for v in raw_embedding]
+    norm = math.sqrt(sum(v * v for v in q_vec)) or 1.0
+    q_vec = [v / norm for v in q_vec]
 
     response = index.query(
         vector=q_vec,
@@ -66,13 +72,6 @@ def retrieve(query: str, embed_model: SentenceTransformer, index, top_k: int = T
 
 
 # ── reference builder ─────────────────────────────────────────────────────────
-
-def load_metadata_store(path: str) -> dict:
-    if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"chunks": []}
-
 
 def build_references(matches: list[dict]) -> list[dict]:
     """Return a clean reference list from retrieved matches."""
@@ -97,7 +96,7 @@ def print_references(refs: list[dict]) -> None:
 
 # ── query loop ────────────────────────────────────────────────────────────────
 
-def query_loop(embed_model: SentenceTransformer, index, llm):
+def query_loop(embed_client: InferenceClient, index, llm):
     print("Type your question and press Enter \n")
 
     while True:
@@ -110,7 +109,7 @@ def query_loop(embed_model: SentenceTransformer, index, llm):
             continue
 
         # 1. Retrieve context
-        matches = retrieve(query, embed_model, index)
+        matches = retrieve(query, embed_client, index)
 
         # 2. Build prompt
         prompt = build_prompt(query, matches)
@@ -136,7 +135,13 @@ def query_loop(embed_model: SentenceTransformer, index, llm):
 def main():
     print(f"[init] QUERY MODE")
 
-    embed_model = SentenceTransformer(EMBEDDING_MODEL)
+    if not HF_TOKEN:
+        raise RuntimeError("Missing HF_TOKEN")
+
+    embed_client = InferenceClient(
+        provider="hf-inference",
+        api_key=HF_TOKEN,
+    )
 
     pc    = Pinecone(api_key=PINECONE_API_KEY)
     index = pc.Index(PINECONE_INDEX)
@@ -148,7 +153,7 @@ def main():
         max_output_tokens=LLM_MAX_TOKENS,
     )
 
-    query_loop(embed_model, index, llm)
+    query_loop(embed_client, index, llm)
 
 if __name__ == "__main__":
     main()
