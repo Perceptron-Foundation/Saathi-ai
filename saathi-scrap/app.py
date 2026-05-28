@@ -1,5 +1,6 @@
 import os
 from typing import List, Optional
+import requests
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, Response
@@ -155,39 +156,42 @@ def healthz_head():
 # FETCH LAST 5 MEALS
 # =====================================================
 def fetch_last_5_meals(user_id):
+    endpoint = "https://thi-5cjs.vercel.app/api/glucose-log"
+    params = {"user_id": user_id} if user_id else None
 
-    # =================================================
-    # TODO:
-    # Replace this mock data with actual API call
-    # =================================================
+    try:
+        response = requests.get(endpoint, params=params, timeout=8)
+        response.raise_for_status()
+        payload = response.json()
+    except Exception as exc:
+        print(f"fetch_last_5_meals failed: {exc}")
+        return []
 
-    meals = [
-        {
-            "meal_name": "Rice",
-            "carbs": 60,
-            "time": "2 PM"
-        },
-        {
-            "meal_name": "Banana",
-            "carbs": 20,
-            "time": "11 AM"
-        },
-        {
-            "meal_name": "Roti Sabzi",
-            "carbs": 45,
-            "time": "9 AM"
-        },
-        {
-            "meal_name": "Milk",
-            "carbs": 15,
-            "time": "7 AM"
-        },
-        {
-            "meal_name": "Apple",
-            "carbs": 25,
-            "time": "Yesterday 9 PM"
-        }
-    ]
+    logs = payload if isinstance(payload, list) else payload.get("data", [])
+    if not isinstance(logs, list):
+        return []
+
+    meals = []
+    for item in reversed(logs):
+        if not isinstance(item, dict):
+            continue
+
+        meal_name = item.get("meal_name") or item.get("meal") or item.get("food")
+        if not meal_name:
+            continue
+
+        meals.append(
+            {
+                "meal_name": str(meal_name),
+                "recorded_at": item.get("recorded_at") or item.get("created_at"),
+                "glucose_level": item.get("glucose_level") or item.get("glucose"),
+                "carbs": item.get("carbs") or item.get("carb"),
+                "time": item.get("time"),
+            }
+        )
+
+        if len(meals) == 5:
+            break
 
     return meals
 
