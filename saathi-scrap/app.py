@@ -1,5 +1,5 @@
 import os
-from typing import Optional
+from typing import List, Optional
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, Response
@@ -112,11 +112,20 @@ def _candidate_embedding_models() -> list[str]:
 # =====================================================
 # REQUEST MODEL
 # =====================================================
+class MealItem(BaseModel):
+    meal_name: str
+    recorded_at: Optional[str] = None
+    glucose_level: Optional[float] = None
+    carbs: Optional[float] = None
+    time: Optional[str] = None
+
+
 class QueryRequest(BaseModel):
     query: str
     user_id: str
     glucose: Optional[float] = None
     iob: Optional[float] = None
+    last_5_meals: Optional[List[MealItem]] = None
 
 # =====================================================
 # HOME ROUTE
@@ -284,9 +293,14 @@ Answer:
 @app.post("/ask")
 def ask(req: QueryRequest):
     try:
-        meals = fetch_last_5_meals(
-            req.user_id
-        )
+        if req.last_5_meals:
+            meals = [meal.model_dump() for meal in req.last_5_meals]
+            meals_source = "request"
+        else:
+            meals = fetch_last_5_meals(req.user_id)
+            meals_source = "fallback"
+
+        print(f"/ask meals source={meals_source} count={len(meals)}")
 
         patient_data = {
             "glucose": req.glucose,
